@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/2sang123/mjcsk.git/static/css/main.f855e6bc.css",
+    "main.js": "/2sang123/mjcsk.git/static/js/main.ea7a194d.js",
+    "static/js/453.46e15600.chunk.js": "/2sang123/mjcsk.git/static/js/453.46e15600.chunk.js",
+    "static/media/logo.svg": "/2sang123/mjcsk.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/2sang123/mjcsk.git/index.html",
+    "main.f855e6bc.css.map": "/2sang123/mjcsk.git/static/css/main.f855e6bc.css.map",
+    "main.ea7a194d.js.map": "/2sang123/mjcsk.git/static/js/main.ea7a194d.js.map",
+    "453.46e15600.chunk.js.map": "/2sang123/mjcsk.git/static/js/453.46e15600.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ea7a194d.js"
+  ]
+}
